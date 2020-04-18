@@ -1,0 +1,43 @@
+Source: record fecgsyndb/sub01/snr00dB/sub01_snr00dB_l1_c0_mecg
+val has 34 rows (signals) and 15000 columns (samples/signal)
+Duration:     1:00
+Sampling frequency: 250 Hz  Sampling interval: 0.004 sec
+Row	Signal	Gain	Base	Units
+1	ECG	3000	0	nu
+2	ECG	3000	0	nu
+3	ECG	3000	0	nu
+4	ECG	3000	0	nu
+5	ECG	3000	0	nu
+6	ECG	3000	0	nu
+7	ECG	3000	0	nu
+8	ECG	3000	0	nu
+9	ECG	3000	0	nu
+10	ECG	3000	0	nu
+11	ECG	3000	0	nu
+12	ECG	3000	0	nu
+13	ECG	3000	0	nu
+14	ECG	3000	0	nu
+15	ECG	3000	0	nu
+16	ECG	3000	0	nu
+17	ECG	3000	0	nu
+18	ECG	3000	0	nu
+19	ECG	3000	0	nu
+20	ECG	3000	0	nu
+21	ECG	3000	0	nu
+22	ECG	3000	0	nu
+23	ECG	3000	0	nu
+24	ECG	3000	0	nu
+25	ECG	3000	0	nu
+26	ECG	3000	0	nu
+27	ECG	3000	0	nu
+28	ECG	3000	0	nu
+29	ECG	3000	0	nu
+30	ECG	3000	0	nu
+31	ECG	3000	0	nu
+32	ECG	3000	0	nu
+33	ECG	3000	0	nu
+34	ECG	3000	0	nu
+
+To convert from raw units to the physical units shown
+above, call the 'rdmat.m' function from the wfdb-matlab
+toolbox: https://physionet.org/physiotools/matlab/wfdb-app-matlab/
